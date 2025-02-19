@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/osteo.jpeg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/osteo.webp');
 }
 
 .u-section-1 .u-sheet-1 {
@@ -92,7 +92,7 @@
   width: 504px;
   min-height: 298px;
   height: auto;
-  background-image: url("images/IMG-20230905-WA0037.jpg");
+  background-image: url("images/IMG-20230905-WA0037.webp");
   background-position: 100% 76.63%;
   background-size: 105%;
   margin: -306px 0 60px auto;
